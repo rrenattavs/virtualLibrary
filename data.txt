@@ -1,0 +1,40 @@
+{
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "plot":"The tragic story of Jay Gatsby, a self-made millionaire, and his pursuit of Daisy Buchanan, a wealthy young woman whom he loved in his youth.",
+    "published": 1925,
+    "genre": ["Classic","Tragedy", "Mystery","Literary Fiction"],
+    "available": true
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "plot":"the roots and consequences of racism and prejudice, probing how good and evil can coexist within a single community or individual.",
+    "published": 1960,
+    "genre": ["Classic","Southern Gothic","Legal Story", "Domestic Fiction"],
+    "available": false
+  },
+  {
+   "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "plot":"Two days in the life of 16-year-old Holden Caulfield after he has been expelled from prep school.",
+    "published": 1951,
+    "genre": "Classic",
+    "available": true
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "plot":"The life of Winston Smith, a low ranking member of 'the Party', who is frustrated by the omnipresent eyes of the party, and its ominous ruler Big Brother.",
+    "published": 1984,
+    "genre": "Science fiction",
+    "available": true
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "plot":"A fellowship of hobbits, elves, dwarfs, and men is formed to destroy the ring by casting it into the volcanic fires of the Crack of Doom, where it was forged.",
+    "published": 1954,
+    "genre": ["Fantasy Fiction", "Comics", "High fantasy", "Adventure", "Chivalric romance", "Heroic fantasy"],
+    "available": false
+  }
